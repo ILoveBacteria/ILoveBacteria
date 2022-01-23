@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ILoveBacteria, yeah interested in bacteria
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning programming
+- 🎓 I'm studying in Shahid Beheshti University
 - 📫 How to reach me: moein.mo81@gmail.com
 
 <!---
