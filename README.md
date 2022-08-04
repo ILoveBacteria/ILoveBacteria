@@ -49,5 +49,5 @@ Student at Shahid Beheshti University
 
 <div width="100%" align="center">
   
-<a href="https://github.com/ILoveBacteria/calculator-telegram-bot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ILoveBacteria&repo=calculator-telegram-bot&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/ILoveBacteria/namakala" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ILoveBacteria&repo=namakala&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/ILoveBacteria/minesweeper-gui" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ILoveBacteria&repo=minesweeper-gui&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
